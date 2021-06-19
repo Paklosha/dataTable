@@ -1,6 +1,6 @@
-# SimonTheGame
-The Simon game, vue js
-![alt text](https://github.com/Paklosha/SimonTheGame/blob/main/Screenshot%20from%202021-06-17%2013-27-48.png)
+# Data Table
+Data Table, vue js
+![alt text](https://github.com/Paklosha/dataTable/blob/main/public/Screenshot%20from%202021-06-19%2003-55-21.png)
 
 ## Project setup
 ```
