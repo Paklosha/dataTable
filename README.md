@@ -1,4 +1,6 @@
-# excel
+# SimonTheGame
+The Simon game, vue js
+![alt text](https://github.com/Paklosha/SimonTheGame/blob/main/Screenshot%20from%202021-06-17%2013-27-48.png)
 
 ## Project setup
 ```
